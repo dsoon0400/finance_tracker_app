@@ -50,6 +50,3 @@ This repository contains a cross-platform finance management app built with Flut
 - **Manage Budgets**: Set monthly spending limits in the "Budget" section and monitor budget usage.
 - **Visualize Data**: Go to the "Reports" section to view charts that break down spending by category and show trends over time.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions, improvements, or additional features to add, please open an issue or submit a pull request.
