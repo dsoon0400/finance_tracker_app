@@ -1,0 +1,11 @@
+name: finance_tracker_app
+description: A finance management app built with Flutter.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Add any other dependencies here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

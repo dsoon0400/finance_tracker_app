@@ -1,0 +1,4 @@
+# Flutter-specific ignores
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
