@@ -4,7 +4,9 @@ description: A finance management app built with Flutter.
 dependencies:
   flutter:
     sdk: flutter
-  # Add any other dependencies here
+  firebase_auth: ^3.1.6
+  charts_flutter: ^0.10.0
+
 
 dev_dependencies:
   flutter_test:
